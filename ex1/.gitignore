@@ -1,0 +1,7 @@
+# Local environment variables and secrets
+.env
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
